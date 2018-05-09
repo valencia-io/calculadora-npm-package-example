@@ -1,0 +1,19 @@
+{
+  "name": "livecoding-node-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npm.example.js",
+  "scripts": {
+    "test": "# node test.js",
+    "max": "node max.js",
+    "open": "atom ."
+  },
+  "keywords": [
+    "learning-npm"
+  ],
+  "author": "jupegarnica",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
